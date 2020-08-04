@@ -1,0 +1,3 @@
+rootProject.name = 'hello_sampel_double_hapus'
+
+include ':app'
